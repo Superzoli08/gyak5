@@ -6,4 +6,3 @@ if elso + maso > harm and elso + harm > maso and maso + harm > elso:
     print("A megadott szakaszok alkothatnak háromszöget.")
 else:
     print("A megadott szakaszok nem alkothatnak háromszöget.")
-
